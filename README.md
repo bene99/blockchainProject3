@@ -1,3 +1,16 @@
+# Write up
+all tests passed
+uploaded to rinkeby
+contract address: 0x861A89eFbf029B9F1e7FFF43885B5a18A27758b2
+node version: v12.14.1
+truffle version: v4.1.14 (core: 4.1.14)     
+Solidity Version: Solidity v0.4.24 (solc-js)                                                                                                                            
+
+
+
+
+
+
 # Supply chain & data auditing
 
 This repository containts an Ethereum DApp that demonstrates a Supply Chain flow between a Seller and Buyer. The user story is similar to any commonly used supply chain process. A Seller can add items to the inventory system stored in the blockchain. A Buyer can purchase such items from the inventory system. Additionally a Seller can mark an item as Shipped, and similarly a Buyer can mark an item as Received.
